@@ -21,3 +21,5 @@ if string == "I LOVE YOU GRANDMA!"
   else
     puts "HUH?! SPEAK UP, SONNY!"
 end
+
+speak_to_grandma
