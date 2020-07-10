@@ -16,4 +16,6 @@ def speak_to_grandma
   speak = gets.chomp
   
   if speak == speak.downcase || speak.capitalize
+    puts "HUH?! SPEAK UP, SONNY!"
+  
 end
