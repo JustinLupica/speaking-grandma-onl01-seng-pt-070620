@@ -13,5 +13,7 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 
 def speak_to_grandma
-  if 
+  speak = gets.chomp
+  
+  if speak == speak.downcase || speak.capitalize
 end
